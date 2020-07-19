@@ -1,8 +1,0 @@
-Create a contacts program that will allow users to:
-- Show a list of contacts
-- Find a contact (search by name)
-- Edit an existing contact
-- Add a new contact
-
-Accept inputs from the terminal. You can use readline to do this: 
-https://nodejs.org/api/readline.html
